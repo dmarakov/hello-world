@@ -1,2 +1,4 @@
 # hello-world
-My first repo
+
+Hu Humans!
+My name is Dmitriy and this is my first commit.
